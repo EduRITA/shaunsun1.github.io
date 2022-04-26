@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: EduRITA.com
 
 # Your name to show in the footer
-author: Some Person
+author: Shaun Sun
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Educational Randomized Iterative Tests and Assignments: "https://edurita.com"
+    - Online Statistical software: "https://statapps.ca/"
+  Author's home: "https://shaunsun.com"
 
 # --- Logo --- #
 
